@@ -5,5 +5,3 @@ This repository contains a collection of mini projects built in Python. Each sub
 ## Projects
 - **Rock Paper Scissors**: A simple game to play against the computer.
 - **Number Guessing Game**: A game where the player guesses a number.
-- **Another Project**: Description of another project.
-

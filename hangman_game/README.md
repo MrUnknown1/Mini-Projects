@@ -47,13 +47,8 @@ _ _ e _ _
 
 ## 🔧 Execution
 
-1. **Copy the script & Run it:**
+1. **Copy the script & run it:**
    ```sh
    python hangman.py
    ```
-
-## 📜 License
-Open-source project.
-
----
 

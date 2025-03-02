@@ -47,7 +47,7 @@ _ _ e _ _
 
 ## 🔧 Execution
 
-1. **Copy & Run the script:**
+1. **Copy the script & Run it:**
    ```sh
    python hangman.py
    ```

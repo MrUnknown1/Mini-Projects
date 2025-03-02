@@ -12,11 +12,11 @@ Secure Bank is a simple and interactive banking system built in Python. It allow
 
 ## 📌 Usage
 
-2. **Run the script:**
+1. **Run the script:**
    ```sh
    python secure_bank.py
    ```
-3. **Follow the on-screen menu to perform banking operations.**
+2. **Follow the on-screen menu to perform banking operations.**
 
 ## 🖥️ Demo
 ```

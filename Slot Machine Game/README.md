@@ -43,20 +43,12 @@ Welcome to the **Ultimate Slot Machine** – a fun and exciting betting game whe
 💰 New Balance: ₹110
 ```
 
-## 🔧 Installation & Execution
+## 🔧 Execution
 
-1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/yourusername/slot-machine-game.git
-   cd slot-machine-game
-   ```
-2. **Run the script:**
+1. **Copy & run the script:**
    ```sh
    python slot_machine.py
    ```
-
-## 📜 License
-Open-source project.
 
 ---
 🎰 **Good luck & happy spinning!** 🍀💰

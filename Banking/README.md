@@ -10,13 +10,8 @@ Secure Bank is a simple and interactive banking system built in Python. It allow
 - ✅ **Error Handling** – Prevents invalid inputs and ensures security.
 - ✅ **User-Friendly UI** – Displays messages with emojis for better readability.
 
-## 📌 Installation & Usage
+## 📌 Usage
 
-1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/yourusername/secure-bank.git
-   cd secure-bank
-   ```
 2. **Run the script:**
    ```sh
    python secure_bank.py

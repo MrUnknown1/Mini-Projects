@@ -39,9 +39,6 @@ Secure Bank is a simple and interactive banking system built in Python. It allow
 - **Withdrawal Limits**: Caps withdrawals at ₹50,000 per transaction.
 - **Error Handling**: Prevents invalid or non-numeric inputs.
 
-## 📜 License
-Open-source project.
-
 ---
 
 

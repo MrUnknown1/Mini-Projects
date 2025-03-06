@@ -31,10 +31,7 @@ pip install PyQt5
 │-- 📄 digital_clock.py  # Main script
 │-- 📄 README.md         # Project documentation
 │-- 🎨 DS-DIGI.TTF       # Digital clock font
-```
-
-## Screenshots
-![Digital Clock Screenshot](https://your-image-link.com/screenshot.png)  
+```  
 
 ## Troubleshooting
 - **Font not loading?** Ensure `DS-DIGI.TTF` is in the same directory as `digital_clock.py`.
